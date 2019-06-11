@@ -1,4 +1,4 @@
 class Student < User
-  @knowledge = []
+  knowledge = []
 
 end
